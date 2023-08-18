@@ -17,7 +17,7 @@
 	}
 	],
 	"user": "test.PHONE_FARM",
-	"pass": "",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
